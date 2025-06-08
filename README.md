@@ -1,8 +1,4 @@
-<ul>
-    <li>Project Created By  : HASHIM PK  </li>
-    <li>Project Created 0n  : 03/06/2025 to 03/06/2025 </li>
-    <li>Using Technology    : Laravel 12.17.0 ane  Mysq  </li>
-</ul>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -27,14 +23,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
+<ul>
+    <li>Project Created By  : HASHIM PK  </li>
+    <li>Project Created 0n  : 03/06/2025 to 03/06/2025 </li>
+    <li>Using Technology    : Laravel 12.17.0 ane  Mysq  </li>
+</ul>
 
 
 <h2 style="font-weight: bold";>About Application</h2>
@@ -65,7 +58,7 @@ price.</li>
     <li>Step 6: Make sure the existing database</li>
     <li>Step 7: Run commnad or migrate file eg : php artisan migrate</li>
     <li>step 9: Run command php artisan serve  eg : php artisan serve  </li>
-    <li>step CRUD uperation in postman </li>
+    <li> Test the API using Postman collection </li>
    
 </ul>
 
