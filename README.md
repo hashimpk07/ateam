@@ -1,3 +1,9 @@
+<ul>
+    <li>Project Created By  : HASHIM PK  </li>
+    <li>Project Created 0n  : 03/06/2025 to 03/06/2025 </li>
+    <li>Using Technology    : Laravel 12.17.0 ane  Mysq  </li>
+</ul>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -29,33 +35,38 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
+<h2 style="font-weight: bold";>About Application</h2>
+<p>PHP Machine Test:  Online Machine Test assigned by ATeam InfoSoft Solutions using Laravel version 12.17.0. <p>
+<h4>Main Task </h4>
+<ul> 
+<li> Rest APIs Integration in laravel.</li>
+<li>A Create Task field are title.;description,status, due_date
+price.</li>
+<li> Manipulate Task </li>
+<li> Remove  Task</li>
+<li> Filter Task </li>
+</ul>
+<h2 style="font-weight: bold";>How to execute the project</h2>
+<ul>
+    <li>Step 1 : Clone the Project Eg : git clone  https://github.com/hashimpk07/twoHatslogic.git </li>
+    <li>Step 2: added .env file</li>
+    <li>step 3: Database settings in .env file 
+           DB_CONNECTION=mysql 
+           DB_HOST=127.0.0.1 
+           DB_PORT=3306 
+           DB_DATABASE=ateam  
+           DB_USERNAME=root 
+           DB_PASSWORD= 
+    </li>
+    <li>Step 4: Run command or composer update eg : composer update </li>
+    <li>Step 5: Make Sure vendor file is created </li>
+    <li>Step 6: Make sure the existing database</li>
+    <li>Step 7: Run commnad or migrate file eg : php artisan migrate</li>
+    <li>step 9: Run command php artisan serve  eg : php artisan serve  </li>
+    <li>step CRUD uperation in postman </li>
+   
+</ul>
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
